@@ -10,5 +10,7 @@
 ## Group Predictive Modeling Project (CIDM 6355)
 - [Group Project](Group_Project.pdf)
 
-## Wireshark Report (CIDM 6340)
-- [Wireshark Report](Wireshark Report.pdf)
+## Wireshark Analysis Report (CIDM 6340)
+- [Wireshark Report](Wireshark_Report.pdf)
+
+
