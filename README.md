@@ -13,4 +13,6 @@
 ## Wireshark Analysis Report (CIDM 6340)
 - [Wireshark Report](Wireshark_Report.pdf)
 
+## Mushroom Models ML Project (CIDM 6356)
+- [Mushroom Models](mushroom_models.ipynb)
 
